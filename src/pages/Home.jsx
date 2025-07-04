@@ -150,6 +150,12 @@ function Home() {
         >
           Contact Me
         </Link>
+        <Link
+          to="/about"
+          className="bg-orange-500 text-white px-6 py-3 rounded-full hover:bg-orange-600 transition inline-block"
+        >
+          About Me
+        </Link>
       </div>
     </div>
   );
