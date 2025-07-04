@@ -1,0 +1,18 @@
+
+.text-orange {
+  color: #ff4500;
+}
+.bg-dark {
+  background-color: #1a1a1a !important;
+}
+.card {
+  border: none;
+}
+.btn-warning {
+  background-color: #ff4500;
+  border-color: #ff4500;
+}
+.btn-warning:hover {
+  background-color: #e03e00;
+  border-color: #e03e00;
+}
