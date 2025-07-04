@@ -12,7 +12,7 @@ function About() {
               <h1 className="text-4xl font-bold mb-2">I'm Korir Carlos, a Software Developer.</h1>
               <p className="text-lg mb-4">I am a Kenyan-based software developer with a focus on web development, deployment, and monitoring. I have a diverse range of experience having worked across various fields and industries.</p>
               <p className="text-lg">I specialize in web development projects, where I continuously expand my skills and knowledge. My passion for learning drives me to explore new technologies and best practices, ensuring I stay at the forefront of the rapidly evolving web landscape.</p>
-              <a href="/contact" className="bg-orange-500 text-white px-6 py-3 rounded-full hover:bg-orange-600 mt-4 inline-block">Get in Touch 📧</a>
+              <a href="/contacts" className="bg-orange-500 text-white px-6 py-3 rounded-full hover:bg-orange-600 mt-4 inline-block">Get in Touch 📧</a>
             </div>
           </div>
         </div>

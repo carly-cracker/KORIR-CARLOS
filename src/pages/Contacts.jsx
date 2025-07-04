@@ -49,7 +49,7 @@ function Contact() {
             <div className="flex items-start space-x-4">
               <FaEnvelope className="text-orange-500 text-xl mt-1" />
               <div>
-                <p className="font-semibold">Email Us:</p>
+                <p className="font-semibold">Email Me:</p>
                 <p>carlkorir226@gmail.com</p>
               </div>
             </div>
