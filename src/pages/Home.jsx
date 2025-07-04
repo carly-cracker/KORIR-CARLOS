@@ -145,7 +145,7 @@ function Home() {
           Are you ready to work with me on a project?
         </h2>
         <Link
-          to="/contact"
+          to="/contacts"
           className="bg-orange-500 text-white px-6 py-3 rounded-full hover:bg-orange-600 transition inline-block"
         >
           Contact Me
